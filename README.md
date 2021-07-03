@@ -1,6 +1,6 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
-[![John Luke Bentley's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnLukeBentley&show_icons=true&theme=tokyonight)](https://github.com/JohnLukeBentley/github-readme-stats)
+[![John Luke Bentley's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnLukeBentley&show_icons=true&theme=tokyonight&include_all_commits=true )](https://github.com/JohnLukeBentley/github-readme-stats)
 
 
 <!--
